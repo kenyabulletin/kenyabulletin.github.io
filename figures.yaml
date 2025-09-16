@@ -1,0 +1,141 @@
+- id: 0
+  name: Johnson Sakaja
+  occupation: politician
+  sightings:
+    - geometry:
+        # Addis Ababa
+        type: Point
+        coordinates:
+          - 38.74416
+          - 8.99991
+      reason: African Union Election Debate
+      datetime: 2024-12-14
+      sources:
+        - https://web.archive.org/web/20250206211328/https://x.com/C_NyaKundiH/status/1867637581741273136
+- name: Jalang'o
+  occupation: politician
+  id: 1
+  sightings:
+    - geometry:
+        # Uhuru Gardens Park
+        type: Point
+        coordinates:
+          - 36.79900
+          - -1.32471
+      reason: Allegedly handing out cash to boost attendance
+      datetime: 2024-12-12
+      sources:
+        - https://x.com/AokoOtieno_/status/1867117762486600045
+    - geometry:
+        # Uhuru Gardens
+        type: Point
+        coordinates:
+          - 36.79900
+          - -1.32471
+      reason: Sakaja pledges to name Nairobi roads after Kenyan artists
+      datetime: 2024-12-12
+      sources:
+        - https://x.com/citizentvkenya/status/1867137296643883356
+- name: Alfred Mutua
+  id: 3
+  occupation: politician
+  sightings:
+    - geometry:
+        # JKIA
+        type: Point
+        coordinates:
+          - 36.92645
+          - -1.33548
+      reason: Alfred Mutua sees off Kenyans to jobs in the Gulf States regardless of perpetual human rights abuses
+      sources:
+        - https://web.archive.org/web/20250206211328/https://x.com/DrAlfredMutua/status/1867293959568936987
+      datetime: 2024-12-12
+- name: Kimani Ichungwa
+  id: 4
+  occupation: politician
+  sightings:
+    - geometry:
+        type: Point
+        coordinates:
+          - 0
+          - 0
+      reason: Kimani Ichungwa calls citizen useless for protesting against JKIA takeover by Adani
+      sources:
+        - https://web.archive.org/web/20250206211328/https://x.com/StandardKenya/status/1866937910370378211
+      datetime: 2024-12-11
+- name: Fred Matiang'i
+  id: 5
+  occupation: politician
+  sightings:
+    - geometry:
+        # Mombasa High Court
+        type: Point
+        coordinates:
+          - 39.67833
+          - -4.06493
+      reason: Mombasa High court hears allegations against former CS, Fred Matiang'i accusing him of political interference in the 2018 Egyptian sugar seizure
+      sources:
+        - https://web.archive.org/web/20250206211328/https://eastleighvoice.co.ke/national/96763/matiangi-accused-of-meddling-in-sugar-scandal-while-serving-as-interior-cs
+        - https://web.archive.org/web/20250206211328/https://web.archive.org/web/20240614200106*/https://www.standardmedia.co.ke/article/2001284008/matiangi-seized-contraband-sugar-contain-mercury-copper
+      datetime: 2024-12-11
+- name: William Samoei Ruto
+  occupation: politician
+  id: 6
+  sightings:
+    - geometry:
+        # Not clear
+        type: Point
+        coordinates:
+          - 40.05810
+          - 1.74975
+      reason: Anyone opposing livestock vaccination is mad, possibly stupid, says RutoAnyone opposing livestock vaccination is mad, possibly stupid, says Ruto
+      sources:
+        - https://web.archive.org/web/20250206211328/https://eastleighvoice.co.ke/national/96370/anyone-opposing-livestock-vaccination-is-mad-possibly-stupid-says-ruto
+        - https://wajir.go.ke/wajir-hosts-successful-4th-edition-of-the-pastoral-leadership-summit/
+      datetime: 2024-12-11
+- name: Wavinya Ndeti
+  id: 7
+  occupation: politician
+  sightings:
+    - geometry:
+        type: Point
+        coordinates:
+          - 37.31324
+          - -1.48427
+      reason: Wavinya Ndeti "officially commissioning the Kaliluni dispensary"
+      sources:
+        - https://web.archive.org/web/20250206211328/https://x.com/Wavinya_Ndeti/status/1866443381322227904
+      datetime: 2024-12-10
+- name: Collins Kiplagat
+  id: 8
+  occupation: activist
+- name: Morara Kebaso
+  id: 9
+  occupation: activist
+  sightings:
+    - geometry:
+        # Bomas of Kenya
+        type: Point
+        coordinates:
+          - 36.76958
+          - -1.33688
+      datetime: 2024-10-04
+      reason: Morara Kebaso attacked during “public participation" exercise for impeachment of Rigathi Gachagua
+      sources:
+        - https://web.archive.org/web/20250206211328/https://nation.africa/kenya/news/politics/morara-kebaso-nursing-injuries-after-goons-attack-him-during-public-participation-on-dp-gachagua-impeachment-4785406
+- name: Abdullswamad Sherrif Nassir
+  id: 10
+  occupation: politician
+  sightings:
+    - geometry:
+        type: Point
+        coordinates:
+          - 39.68021
+          - -4.07041
+      reason: Mombasa governor records statement in connection with the gang rape of MBA-based blogger
+      sources:
+        - https://web.archive.org/web/20250206211328/https://nation.africa/kenya/counties/mombasa/blogger-gang-rape-governor-abdulswamad-records-statement-maintains-innocence-4784604
+      datetime: 2024-10-03
+- name: Hussein Mohammed
+  id: 11
+  occupation: politician

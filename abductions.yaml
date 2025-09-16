@@ -1,0 +1,361 @@
+- id: 0
+  summary: Turkish political refugees abducted by state agents on Friday (date needed). Eight agents armed with weapons. Government admits role
+  datetime: 2024-10-18
+  personid:
+    - name: Mustafa Genç
+      occupation: Erdogan Critic
+    - name: Abdullah Genç
+      occupation: Erdogan Critic
+    - name: Hüseyin Yeşilsu
+      occupation: Erdogan Critic
+    - name: Necdet Seyitoğlu
+      occupation: Erdogan Critic
+    - name: Öztürk Uzun
+      occupation: Erdogan Critic
+    - name: Alparslan Taşçı
+      occupation: Erdogan Critic
+    - name: A Taşçı
+      occupation: Erdogan Critic
+  geometry:
+    type: MultiPoint
+    coordinates:
+      - - 36.79424709055514
+        - -1.2755081379164035
+      - - 36.70655550343466
+        - -1.3220078545338154
+      - - 36.81266796295036
+        - -1.2959318030456821
+  sources:
+    - https://web.archive.org/web/20250206211328/https://www.amnestykenya.org/statement-on-the-abduction-and-disappearance-of-seven-turkish-asylum-seekers-for-immediate-release/
+    - https://web.archive.org/web/20250206211328/https://stockholmcf.org/un-protected-turkish-refugees-deported-to-turkey-by-kenya-held-at-ankara-police-station/
+    - https://www.citizen.digital/news/four-turkish-nationals-abducted-in-nairobi-repatriated-ps-singoei-n351671
+  recovery_geometry:
+    type: Point
+    coordinates:
+      - 32.83149996848985
+      - 39.94860619578115
+  recovery_datetime: 2024-10-18
+  recovery_state: alive
+  recovery_summary: Official confirmation by Turkey and Kenya admitting responsibility
+  recovered: true
+# - id: 1
+#   summary: Blogger, Collins Kiplagat, abducted by unknown individuals in unmarked Subarus
+#   datetime: 2024-10-10
+#   personid: [8]
+#   geometry:
+#     type: Point
+#     coordinates:
+
+#   sources:
+#     - https://web.archive.org/web/20250206211328/https://www.facebook.com/MalemTV/photos/north-rift-based-blogger-collins-has-been-abducted-by-unknown-individuals-using-/1119279539771758/?checkpoint_src=any
+- id: 2
+  summary: Hussein Mohammed, MCA for Della Anole Abducted on Enterprise Road at night. Abductors used two Prados, one black, one white. Had been summoned by Wajir County Security and Intelligence Committee on 6 August 2024
+  datetime: 2024-09-13
+  personid:
+    - 11
+  geometry:
+    type: Point
+    coordinates:
+      - 36.85495
+      - -1.31322
+  recovered: true
+  recovery_state: alive
+  recovery_datetime: 2025-03-25
+  sources:
+    - https://www.kenyans.co.ke/news/109752-missing-wajir-mca-yussuf-hussein-found-alive-after-6-months
+- id: 3
+  summary: We were forcefully disappeared and tortured—but we refuse to be broken
+  datetime: 2024-08-19
+  personid:
+    - name: Bob Njagi
+      occupation: activist
+    - name: Aslam Longton
+      occupation: activist
+    - name: Jamil Longton
+      occupation: activist
+  geometry:
+    type: Point
+    coordinates:
+      - 36.950108504079154
+      - -1.514121820729355
+  sources:
+    - https://khrc.or.ke/press-release/we-were-forcefully-disappeared-and-tortured-but-we-refuse-to-be-broken/
+  recovered: true
+  recovery_datetime: 2024-09-20
+  recovery_summary: Released but still surveilled by purpoted government agents
+  recovery_state: alive
+  recovery_geometry:
+    # Gachie
+    type: Point
+    coordinates:
+      - 36.767689389558086
+      - -1.2200602660280397
+- id: 4
+  summary: "Man abducted on Moi Avenue & Kenyatta Avenue Intersection; Clothes: Grey Suit; Was heading from Jevanjee Gardens to Imenti House"
+  datetime: 2024-09-09
+  personid:
+    - name: John Doe
+      occupation: Unknown
+  geometry:
+    type: Point
+    coordinates:
+      - 36.82348
+      - -1.28345
+  recovered: false
+  sources:
+    - https://web.archive.org/web/20250206211328/https://nation.africa/kenya/counties/nairobi/shock-as-man-abducted-from-nairobi-cbd-in-broad-daylight-4760002#story
+- id: 5
+  summary: Denzel Omondi abducted during the 2024 June Protests. Later found dead
+  datetime: 2024-06-25
+  personid:
+    - name: Denzel Omondi
+      occupation: Student/Activist
+  geometry:
+    type: Point
+    coordinates:
+      - 36.81982
+      - -1.29012
+  recovered: true
+  recovery_state: dead
+  recovery_geometry:
+    # Mashinani quarries
+    type: Point
+    coordinates:
+      - 36.99600
+      - -1.06296
+  recovery_datetime: 2025-07-06
+  sources:
+    - https://web.archive.org/web/20250206211328/https://www.standardmedia.co.ke/nairobi/article/2001498674/jkuat-denzel-omondi-student-drowned-autopsy-shows
+- id: 6
+  summary: Daniel Muthiani, political activist and blogger, disappears and found later dead on 2023-12-16 on bank of Mutonga River (Tharaka-Nithi County). Signs of torture
+  datetime: 2023-12-03
+  personid:
+    - name: Daniel Muthiani
+      occupation: activist
+  geometry:
+    type: Point
+    coordinates:
+      - 37.64877
+      - 0.04834
+  sources:
+    - https://web.archive.org/web/20250206211328/https://www.citizen.digital/news/killing-of-meru-blogger-sniper-dpp-orders-murder-charges-on-two-suspects-n335082
+  recovered: true
+  recovery_datetime: 2023-12-16
+  recovery_state: dead
+  recovery_geometry:
+    # River Mutonga
+    type: Point
+    coordinates:
+      - 37.67722
+      - -0.20873
+- id: 7
+  summary: Family of Benson Njiru Ndwiga & Emmanuel Mutura Ndwiga file missing persons report at Manyatta Police Station. Bodies found at Embu Level 5 Hospital
+  datetime: 2021-08-01
+  personid:
+    - name: Benson Njiru Ndwiga
+      occupation: Unknown
+    - name: Emmanuel Mutura Ndwiga
+      occupation: Unknown
+  geometry:
+    # Manyatta Town/Police Station
+    type: Point
+    coordinates:
+      - 37.48058
+      - -0.43912
+  recovered: true
+  recovery_datetime: 2021-08-04
+  recovery_geometry:
+    # embu l5 morgue
+    type: Point
+    coordinates:
+      - 37.45401
+      - -.52344
+  recovery_state: dead
+  recovery_summary: Some of the cops involved in the adbuction and murder maybe awaiting trial
+  sources:
+    - https://web.archive.org/web/20250206211328/https://icj-kenya.org/news/police-officers-involved-in-the-death-of-kianjokoma-brothers-to-remain-in-custody/
+- id: 8
+  summary: Ronny Kiplagat, brother to Kibet Bull, abducted a few days before Kibet Bull
+  datetime: 2025-12-21
+  personid:
+    - name: Ronny Kiplagat
+      occupation: Unknown
+  sources:
+    - https://web.facebook.com/CisNyakundi/posts/reports-ronny-kiplagat-yoko-kibets-brother-was-found-in-machakos-county-while-be/1145458840273630/?_rdc=1
+    - https://www.citizen.digital/news/two-sons-abducted-a-ksh200k-study-loan-going-to-waste-the-tale-of-kibet-bulls-mother-n355083
+    - https://www.instagram.com/p/DEZOMBXod-s/
+    - https://nation.africa/kenya/news/second-abductee-ronny-kiplangat-found-alive-4879938
+  geometry:
+    # Kikuyu SDA church
+    type: Point
+    coordinates:
+      - 36.6616
+      - -1.25088
+  recovered: true
+  recovery_datetime: 2025-01-06
+  recovery_state: alive
+  recovery_geometry:
+    # Machakos
+    type: Point
+    coordinates:
+      - 37.26673
+      - -1.52234
+- id: 9
+  summary: Bernard Kavuli, a content creator abducted
+  # TODO: Find exact date
+  datetime: 2024-12-01
+  personid:
+    - name: Bernard Kavuli
+      occupation: activist/content creator
+  geometry:
+    #Ngong->Kitale
+    type: Point
+    coordinates:
+      - 36.65595
+      - -1.36084
+  sources:
+    - https://web.facebook.com/CisNyakundi/posts/reports-ronny-kiplagat-yoko-kibets-brother-was-found-in-machakos-county-while-be/1145458840273630/?_rdc=1
+  recovered: true
+  recovery_datetime: 2025-01-06
+  recovery_geometry:
+    type: Point
+    coordinates:
+      - 35.00193
+      - 1.01955
+- id: 10
+  summary: Billy Mwangi abduction. Abductors in two vehicles, one of which was a Toyota Fielder, KDG 527D
+  datetime: 2024-12-21T15:00:00+03:00
+  personid:
+    - name: Billy Mwangi
+      occupation: Unclear
+  sources:
+    - https://www.standardmedia.co.ke/amp/article/2001508920/father-breaks-into-tears-as-he-narrates-how-son-was-abducted
+  geometry:
+    type: Point
+    coordinates:
+      - 37.47703
+      - -0.54155
+  recovered: true
+  recovery_state: alive
+  recovery_datetime: 2025-01-06
+  recovery_geometry:
+    type: Point
+    coordinates:
+      - 37.451196655416865
+      - -0.5324054645183175
+- id: 11
+  summary: Kibet Bull, popular cartoonist, abducted by security agencies over cartoons depicting Ruto
+  datetime: 2024-12-24
+  personid:
+    - name: Kibet Bull
+      occupation: activist
+  geometry:
+    # Taj Towers
+    type: Point
+    coordinates:
+      - 36.81958
+      - -1.30037
+  recovered: true
+  recovery_state: alive
+  recovery_summary: Released in Luanda
+  recovery_geometry:
+    type: Point
+    coordinates:
+      - 34.58614097520487
+      - 0.025264544812566184
+  sources:
+    - https://www.bbc.com/news/articles/ced8q1yxggqo
+    - https://www.the-star.co.ke/news/2025-01-06-kibet-bull-whereabouts-unknown-as-two-more-abducted-youths-released
+    - https://www.kenyans.co.ke/news/107634-dci-denies-abducting-kibet-bull-artist-behind-kasongo-graphics
+- id: 12
+  summary: Simon Yego, 45, and Collins Kipyatich, 22 abducted in Tot, Elgeyo-Marakwet by suspected security officers
+  datetime: 2025-05-30
+  personid:
+    - name: Simon Yego
+      occupation: Unknown
+    - name: Collins Kipyatich
+      occupation: Unknown
+  geometry:
+    type: Point
+    coordinates:
+      - 35.657122654354865
+      - 1.2007905961565368
+  recovered: true
+  recovery_state: dead
+  recovery_summary: Found dead with their arms amputated
+  sources:
+    - https://web.facebook.com/standardkenya/posts/grief-stricken-family-members-and-friends-overwhelmed-with-emotion-after-viewing/1150491867120615/?_rdc=1
+  recovery_datetime: 2025-06-03
+  recovery_geometry:
+    type: Point
+    coordinates:
+      - 36.07095
+      - -0.27695
+- id: 13
+  summary: Justus Mutumwa and Martin Mwau abducted on 16/17th of December in Mlolongo and later recovered at Nairobi Funeral Home
+  datetime: 2024-12-16
+  personid:
+    - name: Justus Mutumwa
+      occupation: activist
+    - name: Martin Mwau
+      occupation: activist
+  geometry:
+    type: Point
+    coordinates:
+      - 36.93952
+      - -1.39391
+  sources:
+    - https://khrc.or.ke/press-release/we-were-forcefully-disappeared-and-tortured-but-we-refuse-to-be-broken/
+  recovered: true
+  recovery_datetime: 2025-01-30
+  recovery_state: dead
+  recovery_geometry:
+    type: Point
+    coordinates:
+      - 36.80235
+      - -1.29871
+- id: 14
+  summary: >
+    Bruce John abducted, sexually assaulted and released at Mwakirunge Dumpsite
+    County officials implicated
+  datetime: 2024-09-12
+  personid:
+    - name: Bruce John (BJK)
+      occupation: activist
+  geometry:
+    type: Point
+    coordinates:
+      - 39.69923
+      - -4.00235
+  recovered: true
+  recovery_geometry:
+    #https://rsisinternational.org/journals/ijrias/articles/mwakirunge-dumpsite-a-simmering-disaster-an-environmental-impact-assessment/
+    type: Point
+    coordinates:
+      - 39.40
+      - -3.57
+  recovery_summary: Sexually assaulted by multiple people. Various people and county officials linked to MBA governor, Nassir implicated
+  recovery_datetime: 2024-09-12
+  recovery_state: alive
+  sources:
+    - https://www.kenyanews.go.ke/blogger-calls-for-arrest-of-people-who-sexually-abused-him-over-a-social-media-post/
+- id: 15
+  summary: Peter Muteti abducted in Uthiru on 2024-12-21
+  datetime: 2024-12-21
+  personid:
+    - name: Peter Muteti
+      occupation: Unknown
+  geometry:
+    type: Point
+    coordinates:
+      - 36.69962
+      - -1.27437
+  recovered: true
+  recovery_datetime: 2025-01-06
+  recovery_state: alive
+  recovery_geometry:
+    type: Point
+    coordinates:
+      - 36.82360
+      - -1.28969
+  recovery_summary: Released alongside others such as Billy Mwangi, Kibet Bull
