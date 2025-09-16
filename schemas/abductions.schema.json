@@ -65,7 +65,7 @@
       "recovery_summary": {
         "type": "string"
       },
-      "geometry_accuracy": { "type": "boolean" }
+      "authorititive": { "type": "boolean", "default": false }
     }
   }
 }
