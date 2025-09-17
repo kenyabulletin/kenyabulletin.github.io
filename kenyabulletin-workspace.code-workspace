@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../kenya.live"
+    }
+  ],
+  "settings": {
+    "yaml.schemas": {
+      // "events.schema.json": ["events.yaml"],
+      // "figures.schema.json": ["figures.yaml"],
+      // "abductions.schema.json": ["abductions.yaml"]
+      "schema.schema.json": "*.yaml"
+    },
+    "yaml.validate": true
+  }
+}
