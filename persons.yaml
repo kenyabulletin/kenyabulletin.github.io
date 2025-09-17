@@ -1,6 +1,7 @@
 type: persons
 values:
-  - name: Johnson Sakaja
+  - id: 0
+    name: Johnson Sakaja
     occupation: politician
     sightings:
       - geometry:
@@ -12,7 +13,7 @@ values:
         reason: African Union Election Debate
         datetime: 2024-12-14
         sources:
-          - https://web.archive.org/web/20250206211328/https://x.com/C_NyaKundiH/status/1867637581741273136
+          - https://x.com/C_NyaKundiH/status/1867637581741273136
   - name: Jalang'o
     occupation: politician
     id: 1
@@ -49,7 +50,7 @@ values:
             - -1.33548
         reason: Alfred Mutua sees off Kenyans to jobs in the Gulf States regardless of perpetual human rights abuses
         sources:
-          - https://web.archive.org/web/20250206211328/https://x.com/DrAlfredMutua/status/1867293959568936987
+          - https://x.com/DrAlfredMutua/status/1867293959568936987
         datetime: 2024-12-12
   - name: Kimani Ichungwa
     id: 4
@@ -62,7 +63,7 @@ values:
             - 0
         reason: Kimani Ichungwa calls citizen useless for protesting against JKIA takeover by Adani
         sources:
-          - https://web.archive.org/web/20250206211328/https://x.com/StandardKenya/status/1866937910370378211
+          - https://x.com/StandardKenya/status/1866937910370378211
         datetime: 2024-12-11
   - name: Fred Matiang'i
     id: 5
@@ -105,7 +106,7 @@ values:
             - -1.48427
         reason: Wavinya Ndeti "officially commissioning the Kaliluni dispensary"
         sources:
-          - https://web.archive.org/web/20250206211328/https://x.com/Wavinya_Ndeti/status/1866443381322227904
+          - https://x.com/Wavinya_Ndeti/status/1866443381322227904
         datetime: 2024-12-10
   - name: Collins Kiplagat
     id: 8

@@ -1,273 +1,228 @@
-type: FeatureCollection
-features:
-  - properties:
-      datetime: 2024-12-12
-      summary: Anti Narcotics Unit detectives arrest Quinter Achieng Matengo and recover 2kg+ of Marijuana at JKIA
-      sources:
-        - https://x.com/DCI_Kenya/status/1867270541230674176
+type: events
+values:
+  - datetime: 2024-12-12
+    summary: Anti Narcotics Unit detectives arrest Quinter Achieng Matengo and recover 2kg+ of Marijuana at JKIA
+    sources:
+      - https://x.com/DCI_Kenya/status/1867270541230674176
     geometry:
       type: Point
       coordinates:
         - 36.92645
         - -1.33548
-    type: Feature
-  - type: Feature
-    geometry:
+  - geometry:
       type: Point
       coordinates:
         - 36.82012
         - -1.29018
-    properties:
-      summary: MPs exempt themselves from paying Kes. 1 billion in car taxes through the Tax Amendment Bill signed by Mr. Ruto. Kenyans will foot the bill instead
-      datetime: 2024-12-11
-      sources:
-        - https://x.com/moneyacademyKE/status/1867093274999263461
-  - type: Feature
-    properties:
-      summary: Chaos as University of Nairobi (Lower Kabete Campus) students reportedly excluded from graduation list
-      datetime: 2024-12-12
-      sources:
-        - https://web.archive.org/web/20250206211328/https://x.com/C_NyaKundiH/status/1867117793918980324
+    summary: MPs exempt themselves from paying Kes. 1 billion in car taxes through the Tax Amendment Bill signed by Mr. Ruto. Kenyans will foot the bill instead
+    datetime: 2024-12-11
+    sources:
+      - https://x.com/moneyacademyKE/status/1867093274999263461
+  - summary: Chaos as University of Nairobi (Lower Kabete Campus) students reportedly excluded from graduation list
+    datetime: 2024-12-12
+    sources:
+      - https://web.archive.org/web/20250206211328/https://x.com/C_NyaKundiH/status/1867117793918980324
     geometry:
       type: Point
       coordinates:
         - 36.73906
         - -1.23782
-  - type: Feature
-    geometry:
+  - geometry:
       # Milimani Law courts
       type: Point
       coordinates:
         - 36.81425
         - -1.29223
-    properties:
-      summary: "Martin Kithinji, 14447620, photographed arresting #endFemicide protestors"
-      datetime: 2024-12-11
-      sources:
-        # - https://web.archive.org/web/20250206211328/https://x.com/FGaitho237/status/1866747733689897226
-        - https://new.kenyalaw.org/akn/ke/judgment/kehc/2025/7957/eng@2025-04-30
-        # - https://web.archive.org/web/20250206211328/https://1drv.ms/x/s!AgNhGdh4F4O_cKSGGhlkRwka7qc?e=KYfY8k
-  - type: Feature
-    geometry:
+    summary: "Martin Kithinji, 14447620, photographed arresting #endFemicide protestors"
+    datetime: 2024-12-11
+    sources:
+      - https://x.com/FGaitho237/status/1866747733689897226
+      - https://new.kenyalaw.org/akn/ke/judgment/kehc/2025/7957/eng@2025-04-30
+  - geometry:
       type: Point
       coordinates:
         - 36.80052
         - -1.28953
-    properties:
-      summary: Pharmacy and Poisons Board recalls Sure Condoms Batch 2405055 due to non-compliance with safety standards
-      sources:
-        - https://web.archive.org/web/20250206211328/https://www.standardmedia.co.ke/national/article/2001507907/poisons-board-recalls-specific-batch-of-sure-condoms-over-non-compliance
-      datetime: 2024-12-11
-  - type: Feature
-    geometry:
+    summary: Pharmacy and Poisons Board recalls Sure Condoms Batch 2405055 due to non-compliance with safety standards
+    sources:
+      - https://web.archive.org/web/20250206211328/https://www.standardmedia.co.ke/national/article/2001507907/poisons-board-recalls-specific-batch-of-sure-condoms-over-non-compliance
+    datetime: 2024-12-11
+  - geometry:
       # Milimani Law courts
       type: Point
       coordinates:
         - 36.81425
         - -1.29223
-    properties:
-      summary: Court Inquest into death of Rex Masai, during the June 2024 protests, led by Magistrate Geofrey Onsarigo at Milimani law courts. Police officers Benson Kamau and Isaiah Muragiri deny being within the CBD at the time of Masai's killing
-      datetime: 2024-12-11
-      sources:
-        - https://web.archive.org/web/20250206211328/https://ghettoradio.co.ke/ipoa-challenges-police-officers-testimony-in-fatal-shooting-of-protester-rex-masai/
-  - type: Feature
-    properties:
-      summary: Alleged deforestation taking place in Thogoto/Dagoretti Forest
-      datetime: 2024-12-11
-      sources:
-        - https://web.archive.org/web/20250206211328/https://x.com/JamesKWaNjeri/status/1866774035176305037
+    summary: Court Inquest into death of Rex Masai, during the June 2024 protests, led by Magistrate Geofrey Onsarigo at Milimani law courts. Police officers Benson Kamau and Isaiah Muragiri deny being within the CBD at the time of Masai's killing
+    datetime: 2024-12-11
+    sources:
+      - https://web.archive.org/web/20250206211328/https://ghettoradio.co.ke/ipoa-challenges-police-officers-testimony-in-fatal-shooting-of-protester-rex-masai/
+  - summary: Alleged deforestation taking place in Thogoto/Dagoretti Forest
+    datetime: 2024-12-11
+    sources:
+      - https://web.archive.org/web/20250206211328/https://x.com/JamesKWaNjeri/status/1866774035176305037
     geometry:
       type: Point
       coordinates:
         - 36.66825
         - -1.29507
-  - type: Feature
-    properties:
-      summary: Fake gold scammer, Steve Okoth Odek alias David Bett was arrested by the DCI after scamming a foreign national a staggering USD 256,000 in a fake gold deal that involved over 500kg of fake gold.
-      datetime: 2024-12-07
-      sources:
-        - https://web.archive.org/web/20250206211328/https://x.com/DCI_Kenya/status/1865478798164009112
+  - summary: Fake gold scammer, Steve Okoth Odek alias David Bett was arrested by the DCI after scamming a foreign national a staggering USD 256,000 in a fake gold deal that involved over 500kg of fake gold.
+    datetime: 2024-12-07
+    sources:
+      - https://web.archive.org/web/20250206211328/https://x.com/DCI_Kenya/status/1865478798164009112
     geometry:
       # DCI
       type: Point
       coordinates:
         - 36.84789
         - -1.25004
-  - type: Feature
-    properties:
-      summary: Alex Kimaiyo Kiprono and Emmanuel Kipkoech Rotich, computer fraud suspects, arrainged at Milimani Law Courts
-      datetime: 2024-12-06
-      sources:
-        - https://web.archive.org/web/20250206211328/https://x.com/DCI_Kenya/status/1865081556928172126
+  - summary: Alex Kimaiyo Kiprono and Emmanuel Kipkoech Rotich, computer fraud suspects, arrainged at Milimani Law Courts
+    datetime: 2024-12-06
+    sources:
+      - https://web.archive.org/web/20250206211328/https://x.com/DCI_Kenya/status/1865081556928172126
     geometry:
       # Milimani Law courts
       type: Point
       coordinates:
         - 36.81425
         - -1.29223
-  - type: Feature
-    geometry:
+  - geometry:
       # Shanzu Law courts
       type: Point
       coordinates:
         - 39.73974
         - -3.95741
-    properties:
-      summary: >
-        Suspect in rape of Mombasa blogger, Omar Ali Mohamed, granted bail. He had apparently hired the vehicle that transported the victim to Mwakirunge dumpsite
-        Allegedly hired the vehicle to transport victim to Mwakirunge Dumpsite
-      datetime: 2024-11-17
-      sources:
-        - https://web.archive.org/web/20250206211328/https://ntvkenya.co.ke/news/mombasa-blogger-gang-rape-suspect-granted-bail/
-  - type: Feature
-    properties:
-      summary: Body found in Lake Yahoud. Disproved to be that of Hussein Ahmed
-      datetime: 2024-10-24
-      sources:
-        - https://web.archive.org/web/20250206211328/https://nation.africa/kenya/counties/wajir/wajir-mca-still-missing-as-tests-reveal-body-retrieved-from-lake-is-not-his-4801318
+    summary: >
+      Suspect in rape of Mombasa blogger, Omar Ali Mohamed, granted bail. He had apparently hired the vehicle that transported the victim to Mwakirunge dumpsite
+      Allegedly hired the vehicle to transport victim to Mwakirunge Dumpsite
+    datetime: 2024-11-17
+    sources:
+      - https://web.archive.org/web/20250206211328/https://ntvkenya.co.ke/news/mombasa-blogger-gang-rape-suspect-granted-bail/
+  - summary: Body found in Lake Yahoud. Disproved to be that of Hussein Ahmed
+    datetime: 2024-10-24
+    sources:
+      - https://web.archive.org/web/20250206211328/https://nation.africa/kenya/counties/wajir/wajir-mca-still-missing-as-tests-reveal-body-retrieved-from-lake-is-not-his-4801318
     geometry:
       # Lake Yahoud
       type: Point
       coordinates:
         - 40.10437
         - 1.72338
-  - type: Feature
-    geometry:
+  - geometry:
       type: Point
       coordinates:
         - 39.65753
         - -4.04111
-    properties:
-      summary: Mombasa Lands CEC, Mohamed Hussein, aka Amadoh, arrested over abduction, gang rape of Bruce, MBA based blogger who had criticised governor Abdulswamad Nassir
-      datetime: 2024-09-24
-      sources:
-        - https://web.archive.org/web/20250206211328/https://nation.africa/kenya/counties/mombasa/mombasa-lands-cec-mohamed-hussein-arrested-over-abduction-gang-rape-of-blogger--4780088
-        - https://x.com/ntvkenya/status/1840644048366772548
-  - type: Feature
-    geometry:
+    summary: Mombasa Lands CEC, Mohamed Hussein, aka Amadoh, arrested over abduction, gang rape of Bruce, MBA based blogger who had criticised governor Abdulswamad Nassir
+    datetime: 2024-09-24
+    sources:
+      - https://web.archive.org/web/20250206211328/https://nation.africa/kenya/counties/mombasa/mombasa-lands-cec-mohamed-hussein-arrested-over-abduction-gang-rape-of-blogger--4780088
+      - https://x.com/ntvkenya/status/1840644048366772548
+  - geometry:
       # Shanzu Law courts
       type: Point
       coordinates:
         - 39.73974
         - -3.95741
-    properties:
-      summary: >
-        Suspects arrested in connection with the gang rape of MBA blogger arraigned at the Shanzu court. They are Abdul Hassan, Hajj Babu Achkobe, Ester Muthoni, Viole[n]t Adera. 
-        Mombasa governor, Nassir, linked to the assault.
-        Suspects include:
-          1. Abdul Hassan Athman
-          2. Ester Muthoni
-          3. Violet Adera
-          4. Haji Babu - A boda-boda operator, who transported the victim
-      datetime: 2024-09-23
-      sources:
-        - https://web.archive.org/web/20250206211328/https://nation.africa/kenya/counties/mombasa/mombasa-blogger-s-ordeal-at-the-hands-of-his-abductors-4782358
-        - https://x.com/ODPP_KE/status/1838547906158108966
-        - https://www.kbc.co.ke/four-in-custody-for-abduction-and-brutal-assault-of-bruce-kajira/
-  - type: Feature
-    geometry:
+    summary: >
+      Suspects arrested in connection with the gang rape of MBA blogger arraigned at the Shanzu court. They are Abdul Hassan, Hajj Babu Achkobe, Ester Muthoni, Viole[n]t Adera. 
+      Mombasa governor, Nassir, linked to the assault.
+      Suspects include:
+        1. Abdul Hassan Athman
+        2. Ester Muthoni
+        3. Violet Adera
+        4. Haji Babu - A boda-boda operator, who transported the victim
+    datetime: 2024-09-23
+    sources:
+      - https://web.archive.org/web/20250206211328/https://nation.africa/kenya/counties/mombasa/mombasa-blogger-s-ordeal-at-the-hands-of-his-abductors-4782358
+      - https://x.com/ODPP_KE/status/1838547906158108966
+      - https://www.kbc.co.ke/four-in-custody-for-abduction-and-brutal-assault-of-bruce-kajira/
+  - geometry:
       type: Point
       coordinates:
         - 37.26878
         - -1.52267
-    properties:
-      summary: Machakos Governor denies her or her relatives reportedly arrested in the United Kingdom with an excess of KES 500 million in cash.
-      sources:
-        - https://web.archive.org/web/20250206211328/https://www.citizen.digital/news/governor-wavinya-denies-allegations-of-smuggling-millions-being-detained-in-uk-n349191
-      datetime: 2024-09-09
-  - type: Feature
-    geometry:
+    summary: Machakos Governor denies her or her relatives reportedly arrested in the United Kingdom with an excess of KES 500 million in cash.
+    sources:
+      - https://web.archive.org/web/20250206211328/https://www.citizen.digital/news/governor-wavinya-denies-allegations-of-smuggling-millions-being-detained-in-uk-n349191
+    datetime: 2024-09-09
+  - geometry:
       type: Point
       coordinates:
         - 36.80928
         - -1.23647
-    properties:
-      summary: Serial Killer, Collins Jumaishi Khalusha escapes custody alongside 12 others from Gigiri Police Station. He had killed 42 women between 2022-2024 (estimated). He dumped the bodies at a quarry in Embakasi South
-      datetime: 2024-08-22
-      sources:
-        - https://web.archive.org/web/20250206211328/https://www.bbc.co.uk/news/articles/cy4yjyggzwpo
-  - type: Feature
-    geometry:
+    summary: Serial Killer, Collins Jumaishi Khalusha escapes custody alongside 12 others from Gigiri Police Station. He had killed 42 women between 2022-2024 (estimated). He dumped the bodies at a quarry in Embakasi South
+    datetime: 2024-08-22
+    sources:
+      - https://web.archive.org/web/20250206211328/https://www.bbc.co.uk/news/articles/cy4yjyggzwpo
+  - geometry:
       type: Point
       coordinates:
         - 37.66068
         - 0.03566
-    properties:
-      summary: Brian Mwenda, a suspect, arrested over the murder of Daniel Muthiani. Kawira Mwangaza`s brother also implicated
-      datetime: 2024-01-07
-      sources:
-        - https://web.archive.org/web/20250206211328/https://nation.africa/kenya/counties/meru/seventh-suspect-arrested-in-meru-blogger-sniper-s-murder-probe-4485022
-  - type: Feature
-    geometry:
+    summary: Brian Mwenda, a suspect, arrested over the murder of Daniel Muthiani. Kawira Mwangaza`s brother also implicated
+    datetime: 2024-01-07
+    sources:
+      - https://web.archive.org/web/20250206211328/https://nation.africa/kenya/counties/meru/seventh-suspect-arrested-in-meru-blogger-sniper-s-murder-probe-4485022
+  - geometry:
       type: Point
       coordinates:
         - 36.813141
         - -1.17236
-    properties:
-      summary: >
-        Five suspects in murder of Daniel Muthiani arraigned in Kiambu Magistrate Court. DCI requests 21 days to remand suspects in order to complete investigation.
-        Kenneth Guantai is Kawira Mwangaza's brother.
-        Kenneth Mutua Matiri was a protocol officer in Kawira Mwangaza's office.
-        Vincent Murithi Kirimi allegedly called Daniel Muthiani to arrange a meeting with Kawira Mwangaza.
-      datetime: 2024-01-08
-      sources:
-        - https://web.archive.org/web/20250206211328/https://nation.africa/kenya/counties/meru/meru-governor-kawira-mwangaza-s-brother-among-five-suspects-arrested-in-blogger-sniper-s-murder-4483258
-  - type: Feature
-    geometry:
+    summary: >
+      Five suspects in murder of Daniel Muthiani arraigned in Kiambu Magistrate Court. DCI requests 21 days to remand suspects in order to complete investigation.
+      Kenneth Guantai is Kawira Mwangaza's brother.
+      Kenneth Mutua Matiri was a protocol officer in Kawira Mwangaza's office.
+      Vincent Murithi Kirimi allegedly called Daniel Muthiani to arrange a meeting with Kawira Mwangaza.
+    datetime: 2024-01-08
+    sources:
+      - https://web.archive.org/web/20250206211328/https://nation.africa/kenya/counties/meru/meru-governor-kawira-mwangaza-s-brother-among-five-suspects-arrested-in-blogger-sniper-s-murder-4483258
+  - geometry:
       # His home
       type: Point
       coordinates:
         - 37.12375
         - -0.94035
-    properties:
-      summary: Julius Kimani Mwangi, suspect, arrested over the murder of Lilian Waithera
-      datetime: 2023-02-20
-      sources:
-        - https://web.archive.org/web/20250206211328/https://web.facebook.com/photo.php?fbid=10158592854669058&id=51790559057&set=a.80240814057&_rdc=1&_rdr=
-        - https://swalanyeti.co.ke/news/article/5874/police-arrest-key-suspect-in-shooting-dead-of-nhif-employee-lilian-waithera
-        - https://newsday.co.ke/shocking-revelations-suspect-in-the-mysterious-shooting-of-nhif-staffer-speaks-out/
-  - type: Feature
-    geometry:
+    summary: Julius Kimani Mwangi, suspect, arrested over the murder of Lilian Waithera
+    datetime: 2023-02-20
+    sources:
+      - https://web.facebook.com/photo.php?fbid=10158592854669058&id=51790559057&set=a.80240814057&_rdc=1&_rdr=
+      - https://swalanyeti.co.ke/news/article/5874/police-arrest-key-suspect-in-shooting-dead-of-nhif-employee-lilian-waithera
+      - https://newsday.co.ke/shocking-revelations-suspect-in-the-mysterious-shooting-of-nhif-staffer-speaks-out/
+  - geometry:
       type: Point
       coordinates:
         - 36.82112
         - -1.28595
-    properties:
-      summary: Lilian Waithera, NHIF employee and whistleblower into a billion shilling scandal sniped in broad daylight
-      datetime: 2023-02-13
-      sources:
-        - https://web.archive.org/web/20250206211328/https://www.pulselive.co.ke/news/local/cctv-footage-on-the-shooting-of-nhif-staffer-lilian-waithera-in-nairobi-cbd-surfaces/y8xep73
-  - type: Feature
-    geometry:
+    summary: Lilian Waithera, NHIF employee and whistleblower into a billion shilling scandal sniped in broad daylight
+    datetime: 2023-02-13
+    sources:
+      - https://web.archive.org/web/20250206211328/https://www.pulselive.co.ke/news/local/cctv-footage-on-the-shooting-of-nhif-staffer-lilian-waithera-in-nairobi-cbd-surfaces/y8xep73
+  - geometry:
       type: Point
       coordinates:
         - 37.415113
         - -0.53184
-    properties:
-      summary: Benson Njiru Ndwiga & Emmanuel Mutura Ndwiga buried at family home
-      sources:
-        - https://web.archive.org/web/20250206211328/https://icj-kenya.org/news/police-officers-involved-in-the-death-of-kianjokoma-brothers-to-remain-in-custody/
-      datetime: 2021-08-13
-  - type: Feature
-    geometry:
+    summary: Benson Njiru Ndwiga & Emmanuel Mutura Ndwiga buried at family home
+    sources:
+      - https://web.archive.org/web/20250206211328/https://icj-kenya.org/news/police-officers-involved-in-the-death-of-kianjokoma-brothers-to-remain-in-custody/
+    datetime: 2021-08-13
+  - geometry:
       # Capitol Hill Police Station
       type: Point
       coordinates:
         - 36.81252
         - -1.29588
-    properties:
-      summary: Police officers involved in the death of Kianjokoma brothers to remain in custody for 14 days
-      datetime: 2021-08-13
-      sources:
-        - https://web.archive.org/web/20250206211328/https://icj-kenya.org/news/police-officers-involved-in-the-death-of-kianjokoma-brothers-to-remain-in-custody/
-  - type: Feature
-    geometry:
+    summary: Police officers involved in the death of Kianjokoma brothers to remain in custody for 14 days
+    datetime: 2021-08-13
+    sources:
+      - https://web.archive.org/web/20250206211328/https://icj-kenya.org/news/police-officers-involved-in-the-death-of-kianjokoma-brothers-to-remain-in-custody/
+  - geometry:
       type: Point
       coordinates:
         - 34.11035
         - 0.46116
-    properties:
-      summary: Break-in at Okiya Omtatah's Busia Offices
-      datetime: 2023-07-22
-      sources:
-        - https://www.citizen.digital/news/suspected-thugs-raid-okiya-omtatahs-office-n324061
+    summary: Break-in at Okiya Omtatah's Busia Offices
+    datetime: 2023-07-22
+    sources:
+      - https://www.citizen.digital/news/suspected-thugs-raid-okiya-omtatahs-office-n324061

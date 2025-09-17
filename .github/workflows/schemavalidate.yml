@@ -1,0 +1,23 @@
+name: Github Workflow to validate various yaml files against local schemas
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+jobs:
+  validate-YAMLs:
+    name: Validate YAML based on schemas
+    permissions:
+      contents: read
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+      - name: Validate Events YAML
+        uses: dsanders11/json-schema-validate-action@v1.4.0
+        with:
+          files: ./*.yaml
+          schema: schema.schema.json
+          all-errors: true
