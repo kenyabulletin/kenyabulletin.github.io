@@ -9,9 +9,11 @@
   ],
   "settings": {
     "yaml.schemas": {
-      "./schemas/events.schema.json": ["events.yaml"],
-      "./schemas/figures.schema.json": ["figures.yaml"],
-      "./schemas/abductions.schema.json": ["abductions.yaml"]
-    }
+      // "events.schema.json": ["events.yaml"],
+      // "figures.schema.json": ["figures.yaml"],
+      // "abductions.schema.json": ["abductions.yaml"]
+      "schema.schema.json": "*.yaml"
+    },
+    "yaml.validate": true
   }
 }
